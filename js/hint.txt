@@ -1,0 +1,1 @@
+Confused about the console.log thing? Create a main.js file in this js/ folder - the error is thrown because the web page is looking for a file that doesn't exist!
